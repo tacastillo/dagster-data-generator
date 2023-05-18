@@ -37,7 +37,7 @@ setup(
     install_requires=[
         "Faker==18.4.0",
         # f"dagster{pin}",
-        "dagster,
+        "dagster"
     ],
     zip_safe=False,
 )
